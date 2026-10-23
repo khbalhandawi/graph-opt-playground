@@ -1,0 +1,9 @@
+# weighted evaluators currently live on the feat/weight-eval branch of graph-opt
+graph-opt @ git+https://github.com/khbalhandawi/graph-opt@feat/weight-eval
+networkx>=3.3
+numpy==1.26.*
+pandas
+matplotlib
+tqdm
+gurobipy>11.0.0
+jupyter
